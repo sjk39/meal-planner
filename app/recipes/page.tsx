@@ -1,13 +1,13 @@
 import Link from "next/link";
 import Layout from "../../components/layout";
 
-interface Recipe {
+type Recipe = {
   id: number;
   name: string;
   ingredients: string[];
 }
 
-interface RecipesPageProps {
+type RecipesPageProps = {
   recipes: Recipe[];
 }
 
