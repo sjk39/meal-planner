@@ -9,11 +9,11 @@ const MealPlanPage = () => {
   const [shoppingList, setShoppingList] = useState([]);
 
   const generateMealPlan = () => {
-    let newMealPlan = [];
-    let ingredientsCount = {};
+    let newMealPlan: any = [];
+    let ingredientsCount: any = {};
 
     for (let day = 0; day < numberOfDays; day++) {
-      let dayPlan = { breakfast: null, lunch: null, dinner: null };
+      let dayPlan: any = { breakfast: null, lunch: null, dinner: null };
 
       ["breakfast", "lunch", "dinner"].forEach((mealType) => {
         const mealsOfType = recipes.filter(
@@ -40,7 +40,7 @@ const MealPlanPage = () => {
     }
 
     // Convert ingredients count to shopping list format
-    let newShoppingList = Object.keys(ingredientsCount).map((ingredient) => {
+    let newShoppingList: any = Object.keys(ingredientsCount).map((ingredient) => {
       return `${ingredient} (${ingredientsCount[ingredient]})`;
     });
 
@@ -56,7 +56,7 @@ const MealPlanPage = () => {
           <input
             type="number"
             placeholder="Enter number of days"
-            onChange={(e) => setNumberOfDays(e.target.value)}
+            onChange={(e) => setNumberOfDays(Number(e.target.value))}
             className="mr-2 p-2 border rounded"
             style={{ backgroundColor: "white", color: "black" }} // Ensures text is visible
           />
@@ -74,7 +74,7 @@ const MealPlanPage = () => {
             <div key={index} className="mb-2">
               <h3 className="font-semibold">Day {index + 1}</h3>
               <ul>
-                {Object.entries(dayPlan).map(([mealType, mealName]) => (
+                {Object.entries(dayPlan).map(([mealType, mealName]: any) => (
                   <li key={mealType}>
                     {mealType.charAt(0).toUpperCase() + mealType.slice(1)}:{" "}
                     {mealName || "No meal"}
