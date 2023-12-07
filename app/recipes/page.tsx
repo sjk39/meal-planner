@@ -1,15 +1,15 @@
 import Link from "next/link";
 import Layout from "../../components/layout";
 
-type Recipe = {
-  id: number;
-  name: string;
-  ingredients: string[];
-}
+// type Recipe = {
+//   id: number;
+//   name: string;
+//   ingredients: string[];
+// }
 
-type RecipesPageProps = {
-  recipes: Recipe[];
-}
+// type RecipesPageProps = {
+//   recipes: Recipe[];
+// }
 
 const recipesDefault = [
   {
@@ -21,7 +21,7 @@ const recipesDefault = [
   // ... other recipes
 ];
 
-const RecipesPage: React.FC<RecipesPageProps> = ({
+const RecipesPage: React.FC<any> = ({
   recipes = recipesDefault,
 }) => {
   return (
@@ -29,7 +29,7 @@ const RecipesPage: React.FC<RecipesPageProps> = ({
       <div className="container mx-auto px-4">
         <h1 className="text-2xl font-bold mb-4">Recipes List</h1>
         <ul className="list-none">
-          {recipes.map((recipe) => (
+          {recipes.map((recipe: any) => (
             <li key={recipe.id} className="mb-2">
               <Link href={`/recipes/${recipe.id}`} passHref>
                 <div className="group block rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30">
