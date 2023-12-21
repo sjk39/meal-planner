@@ -1,199 +1,275 @@
 [
-    {
-      "id": 1,
-      "name": "Vege Chilli Con Carne",
-      "ingredients": [
-        "rice",
-        "kidney beans",
-        "tomato",
-        "onion",
-        "garlic",
-        "bell pepper",
-        "spices"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 2,
-      "name": "Mushroom Risotto",
-      "ingredients": [
-        "arborio rice",
-        "mushrooms",
-        "onion",
-        "garlic",
-        "vegetable broth",
-        "parmesan cheese",
-        "parsley"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 3,
-      "name": "Thai Green Curry",
-      "ingredients": [
-        "coconut milk",
-        "green curry paste",
-        "eggplant",
-        "bamboo shoots",
-        "bell pepper",
-        "basil",
-        "tofu"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 4,
-      "name": "Tomato and Orzo Traybake",
-      "ingredients": [
-        "orzo pasta",
-        "cherry tomatoes",
-        "olive oil",
-        "spinach",
-        "feta cheese",
-        "herbs"
-      ],
-      "mealType": "lunch"
-    },
-    {
-      "id": 5,
-      "name": "Mushroom Quesadillas",
-      "ingredients": [
-        "tortillas",
-        "mushrooms",
-        "cheese",
-        "onion",
-        "garlic",
-        "jalapenos",
-        "sour cream"
-      ],
-      "mealType": "lunch"
-    },
-    {
-      "id": 6,
-      "name": "Sweet Potato and Spinach Curry",
-      "ingredients": [
-        "sweet potatoes",
-        "spinach",
-        "coconut milk",
-        "curry paste",
-        "onions",
-        "spices"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 7,
-      "name": "Vegetarian Lasagne",
-      "ingredients": [
-        "lasagne noodles",
-        "ricotta cheese",
-        "spinach",
-        "tomato sauce",
-        "mozzarella cheese",
-        "vegetables"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 8,
-      "name": "Tuna Spaghetti",
-      "ingredients": [
-        "spaghetti",
-        "canned tuna",
-        "tomato sauce",
-        "garlic",
-        "olive oil",
-        "parsley"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 9,
-      "name": "Fish Pie",
-      "ingredients": [
-        "white fish",
-        "potatoes",
-        "milk",
-        "cheese",
-        "flour",
-        "butter",
-        "peas"
-      ],
-      "mealType": "dinner"
-    },
-    {
-      "id": 10,
-      "name": "Avocado Toast",
-      "ingredients": [
-        "bread",
-        "avocado",
-        "lemon juice",
-        "salt",
-        "pepper",
-        "cherry tomatoes",
-        "feta cheese"
-      ],
-      "mealType": "breakfast"
-    },
-    {
-      "id": 11,
-      "name": "Greek Yogurt with Honey and Berries",
-      "ingredients": ["Greek yogurt", "honey", "mixed berries", "granola"],
-      "mealType": "breakfast"
-    },
-    {
-      "id": 12,
-      "name": "Spinach and Feta Omelette",
-      "ingredients": [
-        "eggs",
-        "spinach",
-        "feta cheese",
-        "onion",
-        "olive oil",
-        "salt",
-        "pepper"
-      ],
-      "mealType": "breakfast"
-    },
-    {
-      "id": 13,
-      "name": "Chickpea Salad Sandwich",
-      "ingredients": [
-        "canned chickpeas",
-        "mayonnaise",
-        "mustard",
-        "celery",
-        "onion",
-        "lettuce",
-        "bread"
-      ],
-      "mealType": "lunch"
-    },
-    {
-      "id": 14,
-      "name": "Caprese Sandwich",
-      "ingredients": [
-        "ciabatta bread",
-        "mozzarella cheese",
-        "tomatoes",
-        "basil",
-        "balsamic glaze",
-        "olive oil"
-      ],
-      "mealType": "lunch"
-    },
-    {
-      "id": 15,
-      "name": "Quinoa Salad Bowl",
-      "ingredients": [
-        "quinoa",
-        "cucumbers",
-        "tomatoes",
-        "avocado",
-        "feta cheese",
-        "lemon vinaigrette"
-      ],
-      "mealType": "lunch"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Vege Chilli Con Carne",
+    "ingredients": [
+      "rice",
+      "kidney beans",
+      "tomato",
+      "onion",
+      "garlic",
+      "bell pepper",
+      "spices"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 2,
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "parmesan cheese",
+      "parsley"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 3,
+    "name": "Thai Green Curry",
+    "ingredients": [
+      "coconut milk",
+      "green curry paste",
+      "eggplant",
+      "bamboo shoots",
+      "bell pepper",
+      "basil",
+      "tofu"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 4,
+    "name": "Tomato and Orzo Traybake",
+    "ingredients": [
+      "orzo pasta",
+      "cherry tomatoes",
+      "olive oil",
+      "spinach",
+      "feta cheese",
+      "herbs"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 5,
+    "name": "Mushroom Quesadillas",
+    "ingredients": [
+      "tortillas",
+      "mushrooms",
+      "cheese",
+      "onion",
+      "garlic",
+      "jalapenos",
+      "sour cream"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 6,
+    "name": "Sweet Potato and Spinach Curry",
+    "ingredients": [
+      "sweet potatoes",
+      "spinach",
+      "coconut milk",
+      "curry paste",
+      "onions",
+      "spices"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 7,
+    "name": "Vegetarian Lasagne",
+    "ingredients": [
+      "lasagne noodles",
+      "ricotta cheese",
+      "spinach",
+      "tomato sauce",
+      "mozzarella cheese",
+      "vegetables"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 8,
+    "name": "Tuna Spaghetti",
+    "ingredients": [
+      "spaghetti",
+      "canned tuna",
+      "tomato sauce",
+      "garlic",
+      "olive oil",
+      "parsley"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 9,
+    "name": "Fish Pie",
+    "ingredients": [
+      "white fish",
+      "potatoes",
+      "milk",
+      "cheese",
+      "flour",
+      "butter",
+      "peas"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 10,
+    "name": "Avocado Toast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "lemon juice",
+      "salt",
+      "pepper",
+      "cherry tomatoes",
+      "feta cheese"
+    ],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 11,
+    "name": "Greek Yogurt with Honey and Berries",
+    "ingredients": ["Greek yogurt", "honey", "mixed berries", "granola"],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 12,
+    "name": "Spinach and Feta Omelette",
+    "ingredients": [
+      "eggs",
+      "spinach",
+      "feta cheese",
+      "onion",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 13,
+    "name": "Chickpea Salad Sandwich",
+    "ingredients": [
+      "canned chickpeas",
+      "mayonnaise",
+      "mustard",
+      "celery",
+      "onion",
+      "lettuce",
+      "bread"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 14,
+    "name": "Caprese Sandwich",
+    "ingredients": [
+      "ciabatta bread",
+      "mozzarella cheese",
+      "tomatoes",
+      "basil",
+      "balsamic glaze",
+      "olive oil"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 15,
+    "name": "Quinoa Salad Bowl",
+    "ingredients": [
+      "quinoa",
+      "cucumbers",
+      "tomatoes",
+      "avocado",
+      "feta cheese",
+      "lemon vinaigrette"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 16,
+    "name": "Tuna Gherkin Sandwiches",
+    "ingredients": [
+      "bread",
+      "canned tuna",
+      "gherkins",
+      "mayonnaise",
+      "lettuce",
+      "salt",
+      "pepper"
+    ],
+    "mealType": "lunch"
+  },
+  {
+    "id": 17,
+    "name": "Old El Paso Wraps",
+    "ingredients": [
+      "Old El Paso wrap kit",
+      "quorn pieces",
+      "chicken",
+      "avocado",
+      "lemon juice",
+      "onion",
+      "tomato",
+      "garlic",
+      "cilantro",
+      "lettuce",
+      "cheese"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 18,
+    "name": "Enchiladas",
+    "ingredients": [
+      "tortillas",
+      "enchilada sauce",
+      "chicken or beef",
+      "cheese",
+      "onion",
+      "green chilies",
+      "garlic",
+      "spices"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 19,
+    "name": "Jacket Potatoes with Tuna, Cheese, and Greens",
+    "ingredients": [
+      "potatoes",
+      "canned tuna",
+      "cheese",
+      "pea shoots",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "mealType": "dinner"
+  },
+  {
+    "id": 20,
+    "name": "Feta and Spinach Rolls",
+    "ingredients": [
+      "puff pastry",
+      "feta cheese",
+      "spinach",
+      "egg",
+      "onion",
+      "garlic",
+      "nutmeg",
+      "salt",
+      "pepper"
+    ],
+    "mealType": "lunch"
+  }
+]
