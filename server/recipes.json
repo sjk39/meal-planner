@@ -5,11 +5,16 @@
     "ingredients": [
       "rice",
       "kidney beans",
-      "tomato",
+      "can of tomatoes",
       "onion",
       "garlic",
       "bell pepper",
-      "spices"
+      "paprika",
+      "cumin",
+      "quorn mince",
+      "stock",
+      "sugar",
+      "tomato puree"
     ],
     "mealType": "dinner"
   },
@@ -44,13 +49,14 @@
   {
     "id": 4,
     "name": "Tomato and Orzo Traybake",
-    "ingredients": [
-      "orzo pasta",
+    "ingredientso": [
+      "orzo",
       "cherry tomatoes",
       "olive oil",
       "spinach",
-      "feta cheese",
-      "herbs"
+      "tuna",
+      "basil",
+      "stock"
     ],
     "mealType": "lunch"
   },
@@ -205,7 +211,8 @@
       "mayonnaise",
       "lettuce",
       "salt",
-      "pepper"
+      "pepper",
+      "sesame seeds"
     ],
     "mealType": "lunch"
   },
@@ -217,12 +224,11 @@
       "quorn pieces",
       "chicken",
       "avocado",
-      "lemon juice",
+      "limes",
       "onion",
       "tomato",
       "garlic",
-      "cilantro",
-      "lettuce",
+      "corriander",
       "cheese"
     ],
     "mealType": "dinner"
@@ -370,6 +376,12 @@
   },
   {
     "id": 37,
+    "name": "El Bulli Bean soup",
+    "ingredients": ["bread", "stock", "peeled almonds", "cannellini beans", "passatta", "bay leaves", "thyme", "rosemary", "olive oil", "onion", "garlic"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 38,
     "name": "Salmon and Sticky Rice",
     "ingredients": ["salmon", "sticky rice", "soy sauce", "sesame seeds", "green onions"],
     "mealType": "dinner"
