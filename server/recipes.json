@@ -271,5 +271,107 @@
       "pepper"
     ],
     "mealType": "lunch"
+  },
+  {
+    "id": 21,
+    "name": "Lemon Chicken",
+    "ingredients": ["chicken breasts", "lemon", "oil"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 22,
+    "name": "Salmon Salad",
+    "ingredients": ["salmon", "mixed greens", "tomato", "cucumber", "salad dressing"],
+    "mealType": "lunch"
+  },
+  {
+    "id": 23,
+    "name": "Soba Noodles with Lime and Pistachio",
+    "ingredients": ["soba noodles", "lime", "pistachios", "soy sauce", "sesame oil"],
+    "mealType": "lunch"
+  },
+  {
+    "id": 24,
+    "name": "Spinach and Kale Smoothie",
+    "ingredients": ["spinach", "kale", "banana", "Greek yogurt", "honey"],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 25,
+    "name": "Anchovy Beans",
+    "ingredients": ["anchovies", "beans", "garlic", "olive oil"],
+    "mealType": "lunch"
+  },
+  {
+    "id": 26,
+    "name": "Fish and Chips",
+    "ingredients": ["white fish", "potatoes", "flour", "oil", "tartar sauce"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 27,
+    "name": "Scrambled Eggs and Toast",
+    "ingredients": ["eggs", "bread", "butter", "salt", "pepper"],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 28,
+    "name": "English Breakfast",
+    "ingredients": ["eggs", "bacon", "sausage", "baked beans", "mushrooms", "tomato", "bread"],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 29,
+    "name": "Burgers",
+    "ingredients": ["ground beef or plant-based patty", "burger buns", "lettuce", "tomato", "cheese", "ketchup", "mustard"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 30,
+    "name": "Sausage Bean Casserole",
+    "ingredients": ["sausages", "beans", "tomato sauce", "onions", "garlic", "spices"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 31,
+    "name": "Pad Thai",
+    "ingredients": ["rice noodles", "chicken or shrimp", "eggs", "bean sprouts", "peanuts", "lime", "Pad Thai sauce"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 32,
+    "name": "Shakshuka",
+    "ingredients": ["eggs", "tomato sauce", "onions", "bell peppers", "garlic", "spices"],
+    "mealType": "breakfast"
+  },
+  {
+    "id": 33,
+    "name": "Haddock and Mashed Broccoli",
+    "ingredients": ["haddock", "broccoli", "butter", "milk", "spices"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 34,
+    "name": "Feta Salad",
+    "ingredients": ["feta cheese", "mixed greens", "olive oil", "lemon juice", "cucumbers", "tomatoes"],
+    "mealType": "lunch"
+  },
+  {
+    "id": 35,
+    "name": "Nacho Tray",
+    "ingredients": ["tortilla chips", "cheese", "jalapenos", "sour cream", "salsa", "guacamole"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 36,
+    "name": "Roast Dinner",
+    "ingredients": ["roast beef or chicken", "potatoes", "carrots", "peas", "gravy"],
+    "mealType": "dinner"
+  },
+  {
+    "id": 37,
+    "name": "Salmon and Sticky Rice",
+    "ingredients": ["salmon", "sticky rice", "soy sauce", "sesame seeds", "green onions"],
+    "mealType": "dinner"
   }
 ]
