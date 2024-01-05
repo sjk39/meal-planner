@@ -100,14 +100,18 @@
   },
   {
     "id": 7,
-    "name": "Vegetarian Lasagne",
+    "name": "Oven baked Ratatouille",
     "ingredients": [
-      "lasagne noodles",
-      "ricotta cheese",
-      "spinach",
-      "tomato sauce",
-      "mozzarella cheese",
-      "vegetables"
+      "courgettes",
+      "aubergine",
+      "red peppers",
+      "red onion",
+      "garlic",
+      "olive oil",
+      "basil",
+      "chopped tomatoes",
+      "white breadcrumbs",
+      "vegan parmesan"
     ],
     "mealType": "dinner"
   },
