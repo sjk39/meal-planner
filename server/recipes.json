@@ -20,29 +20,38 @@
   },
   {
     "id": 2,
-    "name": "Mushroom Risotto",
+    "name": "Thai Okra traybake",
     "ingredients": [
-      "arborio rice",
-      "mushrooms",
-      "onion",
+      "coconut milk",
+      "oyster/shiitake mushrooms",
+      "lemongrass",
+      "sesame oil",
       "garlic",
-      "vegetable broth",
-      "parmesan cheese",
-      "parsley"
+      "okra",
+      "ginger",
+      "tom yum paste",
+      "soy sauce",
+      "spring onions",
+      "red chilli"
     ],
     "mealType": "dinner"
   },
-  {
+    {
     "id": 3,
-    "name": "Thai Green Curry",
+    "name": "Crispy Tamarind Sprouts with Peanuts and Shallots",
     "ingredients": [
-      "coconut milk",
-      "green curry paste",
-      "eggplant",
-      "bamboo shoots",
-      "bell pepper",
-      "basil",
-      "tofu"
+      "brussel sprouts",
+      "banana shallots",
+      "chickpeas",
+      "cumin",
+      "corriander",
+      "chilli powder",
+      "vegetable oil",
+      "tamarind paste",
+      "brown sugar",
+      "salted peanuts",
+      "coconut yogurt",
+      "flatbread/naan"
     ],
     "mealType": "dinner"
   },
@@ -56,6 +65,8 @@
       "spinach",
       "tuna",
       "basil",
+      "bay leaves",
+      "red onion",
       "stock"
     ],
     "mealType": "dinner"
