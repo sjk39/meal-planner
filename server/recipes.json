@@ -49,7 +49,7 @@
   {
     "id": 4,
     "name": "Tomato and Orzo Traybake",
-    "ingredientso": [
+    "ingredients": [
       "orzo",
       "cherry tomatoes",
       "olive oil",
@@ -58,7 +58,7 @@
       "basil",
       "stock"
     ],
-    "mealType": "lunch"
+    "mealType": "dinner"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "jalapenos",
       "sour cream"
     ],
-    "mealType": "lunch"
+    "mealType": "dinner"
   },
   {
     "id": 6,
