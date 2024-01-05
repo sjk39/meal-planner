@@ -77,6 +77,7 @@
     "ingredients": [
       "tortillas",
       "mushrooms",
+      "dried mushrooms",
       "cheese",
       "onion",
       "garlic",
@@ -121,10 +122,12 @@
     "ingredients": [
       "spaghetti",
       "canned tuna",
-      "tomato sauce",
+      "chopped tin tomatoes",
       "garlic",
       "olive oil",
-      "parsley"
+      "parsley",
+      "stock",
+      "anchovies",
     ],
     "mealType": "dinner"
   },
@@ -132,13 +135,13 @@
     "id": 9,
     "name": "Fish Pie",
     "ingredients": [
-      "white fish",
+      "fish pie mix",
       "potatoes",
-      "milk",
       "cheese",
-      "flour",
-      "butter",
-      "peas"
+      "sour cream",
+      "peas",
+      "spring onion",
+      "prawns"
     ],
     "mealType": "dinner"
   },
@@ -246,8 +249,9 @@
       "onion",
       "tomato",
       "garlic",
-      "corriander",
-      "cheese"
+      "coriander",
+      "cheese",
+      "olive oil"
     ],
     "mealType": "dinner"
   },
@@ -256,13 +260,15 @@
     "name": "Enchiladas",
     "ingredients": [
       "tortillas",
-      "enchilada sauce",
-      "chicken or beef",
+      "quorn mince",
+      "pepper",
       "cheese",
       "onion",
-      "green chilies",
+      "chilies",
       "garlic",
-      "spices"
+      "taco spice seasoning",
+      "stock",
+      "marmite"
     ],
     "mealType": "dinner"
   },
@@ -275,8 +281,7 @@
       "cheese",
       "pea shoots",
       "butter",
-      "salt",
-      "pepper"
+      "mayonaise"
     ],
     "mealType": "dinner"
   },
@@ -287,19 +292,18 @@
       "puff pastry",
       "feta cheese",
       "spinach",
-      "egg",
+      "eggs",
       "onion",
       "garlic",
-      "nutmeg",
-      "salt",
-      "pepper"
+      "sesame seeds",
+      "olive oil"
     ],
     "mealType": "lunch"
   },
   {
     "id": 21,
     "name": "Lemon Chicken",
-    "ingredients": ["chicken breasts", "lemon", "oil"],
+    "ingredients": ["chicken thighs/ chicken alternative & mushroom & nandos sauce", "lemons", "olive oil", "white wine", "thyme", "garlic", "little gem lettuces", "stock", "baking potatoes"],
     "mealType": "dinner"
   },
   {
