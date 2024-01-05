@@ -303,7 +303,7 @@
   {
     "id": 21,
     "name": "Lemon Chicken",
-    "ingredients": ["chicken thighs/ chicken alternative & mushroom & nandos sauce", "lemons", "olive oil", "white wine", "thyme", "garlic", "little gem lettuces", "stock", "baking potatoes"],
+    "ingredients": ["chicken thighs OR chicken alternative & mushroom & nandos sauce", "lemons", "olive oil", "white wine", "thyme", "garlic", "little gem lettuces", "stock", "baking potatoes"],
     "mealType": "dinner"
   },
   {
