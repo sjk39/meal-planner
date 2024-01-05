@@ -177,15 +177,19 @@
   },
   {
     "id": 13,
-    "name": "Chickpea Salad Sandwich",
+    "name": "Gado gado",
     "ingredients": [
-      "canned chickpeas",
-      "mayonnaise",
-      "mustard",
-      "celery",
-      "onion",
-      "lettuce",
-      "bread"
+      "charlotte potatoes",
+      "olive oil",
+      "green beans",
+      "beansprouts",
+      "coriander",
+      "peanut butter",
+      "coconut milk",
+      "lime",
+      "soy sauce",
+      "red chilli",
+      "ginger"
     ],
     "mealType": "lunch"
   },
